@@ -14,6 +14,7 @@ border.goto(400,-250)
 border.goto(-400,-250)
 border.goto(-400,250)
 
+
 SIZE_X=900
 SIZE_Y=600
 turtle.setup(SIZE_X, SIZE_Y)
